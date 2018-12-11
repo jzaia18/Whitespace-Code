@@ -8,14 +8,14 @@
     .======LABEL_0(SPACE)======.
    	 .
    	 .
-			. 
- . 
+			.  		.
+	   .		 .   	 .
+			.======DECREMENT_FINISH======. 
  .
 	   	.if_0
 
 		  	.if_neg.======CHECK_FINISH======.
-  		.
-	   .		 .======DECREMENT_FINISH======.   .
+   .
 			.   	.
 			.	   .======NEXTFIB_FINISH======.   	.
 			.   .
